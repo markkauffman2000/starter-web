@@ -7,10 +7,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos. As stated above the main purpose is to provide simple examples.
+Sample website with plenty of files for demos. As stated above the main purpose is to provide simple examples. And more purpose
 
 ## Deployment
 Deployment can be blah
 
 ## How to contribute
-
+contribute here
