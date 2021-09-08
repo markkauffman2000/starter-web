@@ -14,3 +14,6 @@ Deployment can be blah
 
 ## How to contribute
 contribute here
+
+### Copyright
+copyright
