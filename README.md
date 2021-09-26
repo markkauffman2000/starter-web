@@ -18,4 +18,4 @@ Deployment can be blah
 contribute here
 
 ### Copyright
-2021 Kauffman
+2021 Kauffman. All rights unreserved
